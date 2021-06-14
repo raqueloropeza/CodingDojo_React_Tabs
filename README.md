@@ -1,3 +1,8 @@
+# Tabs React Project
+1. React app with a tabs component that accepts an array of varying length
+
+2. The tab headers have an onClick event that will display the appropriate content for each tab in the page below the tabs.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
